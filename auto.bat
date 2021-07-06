@@ -2,16 +2,18 @@
 	
 	:: Navigate to the directory you wish to push to GitHub
 	::Change <path> as needed. Eg. C:\Users\rich\Desktop\Writings
-	cd "C:\Users\Nam Tran\Desktop\Coding\C++\"
+	cd "C:\Users\Tony\source\repos\23132143252246477785366541342\textbook"
 	
 	::Initialize GitHub
 	git init
 	
 	::Pull any external changes (maybe you deleted a file from your repo?)
-	git pull
+
 	
 	::Add all files in the directory
-	git add --all
+
+        git config --global user.email "tommyalbert899@gmail.com"
+	git add .
 	
 	::Commit all changes with the message "auto push". 
 	::Change as needed.
