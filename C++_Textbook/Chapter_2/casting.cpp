@@ -11,7 +11,6 @@
 using namespace std;
 
 int main() {
-    float f = 1.232323;
     cout << "static_cast<int>(7.9) = " << static_cast<int>(7.9) << endl;
     cout << "static_cast<int>(3.3) = " << static_cast<int>(3.3) << endl;
     cout << "static_cast<double>(25) = " << static_cast<double>(25) << endl;
