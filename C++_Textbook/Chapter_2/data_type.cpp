@@ -4,7 +4,7 @@ using namespace std;
 
 int main() {
     /*
-      Basic Data Types:
+        Basic Data Types:
     */
 
     int a = 0;        // a number between -2 ^ 31 and 2 ^ 31
