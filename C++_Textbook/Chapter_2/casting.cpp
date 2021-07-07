@@ -1,9 +1,9 @@
 /* 
-  Casting is basically changing the type of a value:
-  This is the syntax:
-  static_cast<type you want to change to>(value you want to change to different type)
+    Casting is basically changing the type of a value:
+    This is the syntax:
+    static_cast<type you want to change to>(value you want to change to different type)
 
-  So, static_cast<int>(12.123123) would change the float 12.123123 to the int 12
+    So, static_cast<int>(12.123123) would change the float 12.123123 to the int 12
 */
 
 #include <iostream>
