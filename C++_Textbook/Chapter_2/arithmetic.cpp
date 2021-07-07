@@ -1,11 +1,11 @@
 /* 
     ORDER OF PRECEDENCE:
-  C++ does *, /, and %, then + and -
-  % means remainder, if you didn't know.
+    C++ does *, /, and %, then + and -
+    % means remainder, if you didn't know.
 
-  4 % 2 = 0
-  4 % 3 = 1
-  52 % 10 = 2
+    4 % 2 = 0
+    4 % 3 = 1
+    52 % 10 = 2
 
   UNARY VS BINARY:
   Unary means that the operator only needs on value to operate.
