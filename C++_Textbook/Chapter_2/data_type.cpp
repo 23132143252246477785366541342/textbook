@@ -13,7 +13,7 @@ int main() {
     long d = 3;       // a number between -2 ^ 63 and 2 ^ 63 - 1
 
     /* 
-      Floating Point Data Types: 
+        Floating Point Data Types: 
     */
 
     float e = 2.3;    // a decimal number between -3.4 * 10 ^ 38 and 3.4 * 10 ^ 38
