@@ -7,19 +7,19 @@
     4 % 3 = 1
     52 % 10 = 2
 
-  UNARY VS BINARY:
-  Unary means that the operator only needs on value to operate.
-  Binary means that the operator needs 2 values to operate.
-  You can use + and - as binary and unary operators:
-  -1 (unary)
-  -3 (unary)
-  +4 (unary)
+    UNARY VS BINARY:
+    Unary means that the operator only needs on value to operate.
+    Binary means that the operator needs 2 values to operate.
+    You can use + and - as binary and unary operators:
+    -1 (unary)
+    -3 (unary)
+    +4 (unary)
 
-  4 + 10 (binary)
-  100 + 123 (binary)
-  23 - 3 (binary)
+    4 + 10 (binary)
+    100 + 123 (binary)
+    23 - 3 (binary)
 
-  However, you can only use *, /, and % as binary operators.
+    However, you can only use *, /, and % as binary operators.
 */
 
 
