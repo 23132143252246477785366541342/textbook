@@ -1,5 +1,5 @@
 /* 
-  ORDER OF PRECEDENCE:
+    ORDER OF PRECEDENCE:
   C++ does *, /, and %, then + and -
   % means remainder, if you didn't know.
 
