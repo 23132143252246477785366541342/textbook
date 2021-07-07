@@ -12,7 +12,7 @@
 	
 	::Add all files in the directory
 
-        git config --global user.email "tommyalbert899@gmail.com"
+    git config --global user.email "tommyalbert899@gmail.com"
 	git add .
 	
 	::Commit all changes with the message "auto push". 
